@@ -9,7 +9,7 @@ public class EmployeeInfo2 {
 		
 	
 	Scanner sc = new Scanner(System.in);	
-	System.out.println("Craft knowledge");
+	System.out.println("Craft knowledge java class");
 	
 	
 		System.out.println("please enter your full name:");
